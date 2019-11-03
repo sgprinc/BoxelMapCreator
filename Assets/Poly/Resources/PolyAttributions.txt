@@ -1,0 +1,31 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: MechQuadruped
+Author: 3Donimus
+URL: https://poly.google.com/view/5x1hRpbmdfo
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Super Simple Crate
+Author: TJ Helm
+URL: https://poly.google.com/view/6_6_n_5IOJJ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Sword in Stone
+Author: Jerad Bitner
+URL: https://poly.google.com/view/0gB9nI1qS_x
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Trash can
+Author: Poly by Google
+URL: https://poly.google.com/view/0yT-YR5yO4L
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Treasure chest
+Author: Louis DeScioli
+URL: https://poly.google.com/view/f7SU-dO1FG7
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
